@@ -1,4 +1,4 @@
-# RS-InsDel
+# Koetter-Vardy algorithm for insertions & deletions
 
 This project provides an implementation of the Koetter-Vardy decoding algorithm [3] to correct insertion & deletion errors [1] induced in codewords of an RS code during transmission over an instance of the Davey-MacKay channel[2].
 
